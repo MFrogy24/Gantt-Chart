@@ -5,7 +5,7 @@ Tool design to create Gantt Charts quick and easy. This tool is feeded by text f
 
 #### For Windows 11 user:
 1.- Install Python from the Microsoft Store.\
-2.- Download Gantt.zip folder from this GitHub.\
+2.- Download Gantt_windows_11.zip folder from this GitHub.\
 3.- Unzip the folder whenever you like in your system. Example: C:\Users\[user-name]\Documents\Gantt.\
 4.- Next you need to open a new terminal shell from the folder holding the unzip files. Use right click and select: Open in terminal.\
 5.- To run the script you can directly use python command: python generar.pyc grafico.gtt   or    you can use the batch file using: ./generar grafico.\
