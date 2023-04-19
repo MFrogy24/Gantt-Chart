@@ -1,5 +1,5 @@
 # Gantt-Chart
-Tool design to create Gantt Charts quick and easy. This tool is feeded by text file (with .gtt extension) where the user define the parameters to createthe chart, then the Python file read and interpretate this text file in order to create a SVG file (.svg extension) ready to be use. 
+Tool design to create Gantt Charts quick and easy. This tool is feeded by text file (with .gtt extension) where the user define the parameters to create the chart, then the Python file read and interpretate this text file in order to create a SVG file (.svg extension) ready to be use. 
 
 ## Installation 
 
